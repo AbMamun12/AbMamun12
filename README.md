@@ -24,7 +24,7 @@
 ## 🚀 Featured Projects  
 | Project | Description | Links |
 |---------|-------------|-------|
-| **My Smart Planner** | Daily planning app with task management & progress tracking | [GitHub]() / [Amazon Appstore]() |
+| **My Smart Planner** | Daily planning app with task management & progress tracking | [Amazon Appstore](https://www.amazon.com/dp/B0FL86GVQT) |
 | **Child Monitoring App** | Parent-child role-based tracking system | [GitHub]() |
 | **Portfolio Website** | Responsive professional personal portfolio site | [GitHub]() / [Live]() |
 
