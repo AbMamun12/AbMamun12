@@ -25,9 +25,10 @@
 | Project | Description | Links |
 |---------|-------------|-------|
 | **My Smart Planner** | Daily planning app with task management & progress tracking | [Amazon Appstore](https://www.amazon.com/dp/B0FL86GVQT) |
-| **Child Monitoring App** | Parent-child role-based tracking system | [GitHub]() |
-| **Portfolio Website** | Responsive professional personal portfolio site | [GitHub]() / [Live]() |
-
+| **Task Manager** | Task Manager app to organize, track, and complete tasks easily. | [[Amazon Appstore]]((https://www.amazon.com/dp/B0FLY51YV8)) |
+| ** Crafty Bay E-commerce Application** | E-commerce app with product listing, cart, and order management using 
+REST APIs. | [Google Drive](https://tinyurl.com/3erh7pcc) |
+| ** Report based online medicine suggestion system** | An AI-powered online system that suggests medicines based on patient reports. | [Ongoing ✅]() |
 ---
 
 ## 📊 GitHub Stats  
