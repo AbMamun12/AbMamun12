@@ -4,34 +4,13 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 **Final-year student** at *Department of Information and Communication Engineering (ICE)*, TMSS Engineering College – University of Rajshahi (CGPA: 3.11)  
+- 🎓 **Final-year student** at *Department of Information and Communication Engineering (ICE)*, TMSS Engineering College – University of Rajshahi   
 - 📱 Passionate about building **cross-platform Flutter apps** with beautiful UI & smooth UX  
 - 🤖 Exploring **Firebase, AI/ML, and Competitive Programming**  
 - 💬 Ask me about **Flutter, Firebase, Python, AI Models, REST APIs**  
 - 📍 Based in **Bogura, Bangladesh**  
 - 📫 Reach me at: **abdullah.mamun8191@gmail.com**  
 
----
-
-## 🛠️ Skills & Technologies  
-
-**Languages:**  
-`Dart` • `Python` • `JavaScript` • `C` • `C++` • `Java`  
-
-**Frameworks & State Management:**  
-`Flutter` (Android & iOS) • `React` • `GetX` (Reactive State Management & Routing)  
-
-**Backend & Database:**  
-`Firebase` (Auth, Firestore) • `Node.js` • `MySQL`  
-
-**Tools & Platforms:**  
-`Git` • `VS Code` • `Android Studio` • `IntelliJ IDEA` • `Postman`  
-
-**AI Integration & Experimentation:**  
-Pre-trained ML models • `Google ML Kit` • `TensorFlow Lite`  
-
-**Others:**  
-UI/UX Design • Debugging & Testing • Clean Architecture • Problem Solving  
 
 ---
 
@@ -50,7 +29,7 @@ UI/UX Design • Debugging & Testing • Clean Architecture • Problem Solving
 
 **B.Sc. in Information & Communication Engineering (ICE)**  
 TMSS Engineering College – University of Rajshahi (Affiliated)  
-_Bogura, Bangladesh_ | CGPA: **3.11** | Feb 2020 – Present  
+_Bogura, Bangladesh_ 
 
 **Certifications:**  
 - [App Development with Flutter – Ostad.com](https://tinyurl.com/mj6z96k8)  
